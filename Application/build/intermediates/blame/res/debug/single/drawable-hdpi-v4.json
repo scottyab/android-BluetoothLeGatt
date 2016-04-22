@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/marco/Projects/Android/android-BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/home/marco/Projects/Android/android-BluetoothLeGatt/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/marco/Projects/Android/android-BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/marco/Projects/Android/android-BluetoothLeGatt/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
